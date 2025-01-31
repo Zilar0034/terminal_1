@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "FATAL_ERR_DOMAIN_NOT_FOUND/[invalidref]",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "M03",
     "defaultUser": {
-        "userId": "user",
+        "userId": "guest",
         "password": "",
-        "userName": "anonymous"
+        "userName": "guest"
     },
     "initialHistory": {
         "user": [
