@@ -39,7 +39,7 @@
 
 }
 ::selection {
-  background: #FF5E99;
+  background: #091f2d;
 }
 html, body {
   width: 100%;
@@ -84,7 +84,7 @@ body {
 }
 .prompt {
   white-space: nowrap;
-  color: #96b38a;
+  color: #d3ba3e;
   margin-right: 7px;
   display: -webkit-box;
   -webkit-box-pack: center;
