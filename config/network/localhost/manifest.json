@@ -1,10 +1,10 @@
 {
-    "serverAddress": "localhost",
+    "serverAddress": "highrecord",
     "serverName": "FATAL_ERR_DOMAIN_NOT_FOUND/[invalidref]",
-    "iconName": "Moon-icon.png",
+    "iconName": "ridayan.png",
     "terminalID": "M03",
     "defaultUser": {
-        "userId": "guest",
+        "userId": "unknown",
         "password": "",
         "userName": "guest"
     },
