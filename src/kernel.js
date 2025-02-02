@@ -46,7 +46,7 @@ function setHeader( msg ) {
     <p>Accessing: ${ serverDatabase.serverAddress } (&nbsp;${ dateStr }&nbsp;) </p>
     ${ serverDatabase.headerExtraHTML || "" }
     <p>Accessing...</p>
-    <p style="color:#8e0202">FATAL ERROR: Header index missing! Verify segmentation errors. </p>
+    <p style="color:red">FATAL ERROR: Header index missing! Verify segmentation errors. </p>
     `;
     // Clear content:
     output_.innerHTML = "";
