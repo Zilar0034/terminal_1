@@ -1,7 +1,7 @@
 {
     "serverAddress": "highrecord",
     "serverName": "FATAL_ERR_DOMAIN_NOT_FOUND/[invalidref/FATAL::MissingIndex]",
-    "iconName": "<img src='config/network/localhost/ridayan.png' style='width: 10rem' class='glitch'>",
+    "iconName": "ridayan.png",
     "terminalID": "M03",
     "defaultUser": {
         "userId": "unknown",
