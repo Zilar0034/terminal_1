@@ -1,7 +1,7 @@
 {
     "serverAddress": "highrecord",
     "serverName": "FATAL_ERR_DOMAIN_NOT_FOUND/[invalidref/FATAL::MissingIndex]",
-    "iconName": ""
+    "iconName": "",
     "terminalID": "M03",
     "defaultUser": {
         "userId": "unknown",
