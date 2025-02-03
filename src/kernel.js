@@ -33,7 +33,7 @@ function debugObject( obj ) {
  */
 function setHeader( msg ) {
     // Setting correct header icon and terminal name
-    const promptText = `Xx.${ serverDatabase.terminalID }.> `;
+    const promptText = `Xx.00.${ serverDatabase.terminalID }.> `;
 
     initDateObject();
     const dateStr = `${ serverDate.day }/${ serverDate.month }/${ serverDate.year }`;
